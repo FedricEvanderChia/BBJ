@@ -6,13 +6,13 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <title>ReXsteam</title>
+    <title>Book Store</title>
 </head>
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-dark d-flex justify-content-between" style="background-color: rgb(17, 24, 40);">
     <div class="container-fluid pt-2 pb-2">
-        <a class="navbar-brand ms-3" style="font-size: 20px" href="/">BOOKSTORE UwU</a>
+        <a class="navbar-brand ms-3" style="font-size: 20px" href="/">BOOKSTORE</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -58,15 +58,7 @@
 
 <footer class="footer sticky-bottom text-light text-center py-3 d-flex flex-row" style="justify-content: space-between;background-color: rgb(17, 24, 40);">
     <div class="pt-3 ms-3">
-        <p>© 2021 ReXsteam. All rights reserved.<p>
-    </div>
-    <div class="sites pt-3 me-3" >
-        <a href="https://www.twitter.com/">
-            <img src="{{asset('storage/images/twitter.png')}}" alt="Noimage" style="width: 50px">
-        </a>
-        <a href="https://www.facebook.com/">
-            <img src="{{asset('storage/images/facebook.png')}}" alt="Noimage"style="width: 50px">
-        </a>
+        <p>© 2021 Book Store. All rights reserved.<p>
     </div>
 </footer>
 
